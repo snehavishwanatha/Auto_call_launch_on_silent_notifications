@@ -1,0 +1,428 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\b18f3bbaf7af2ebd7c50cd62a22383e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\4130f9cf19a42513b85e037484a2daaf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1305446c7ceba653e3bc60d043b82892\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\b5e013656bced05e6f865656b63093db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\a6c3dd490c35160b36be5b959e779619\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3436ae6c1f8c50ab4f3cb308cd95159d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a14c4c753a4a700b981e6307e04ec3ac\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\fc1468131338e0142dde1fe52288b89b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\aa63af0937901314e764bf95bf525025\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\c9a699e23152ed2a1db7740af2c99425\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\3207b430c12e63b612e3b2ae0234fcf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\6d9b9d4d1998903f7bdc2cc6322c0181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\0992239b7fbebdfc8140d734336c5082\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\08e9113e87d0d5fd4944a694f14c99da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\4facb44d50778a6c23691035e679b0cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\c42fd4a971b61d821874a607f53d0a28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\ce6bd4d880afac33180f85a8f0868180\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\a7ab8a095f14bb8ce8f1212a7ac9be8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\5309c46fcc2b95c6f9bd848ea4cb02aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\b9871dca871242ba3e1236c0a2099e5f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\f3fd88c1c97b701d0b83468d9d3e88e1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\b9d620ff1afb17f667fa9811ba7dd952\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d135d52745b88058d7ba2cb98a9d9ab0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5767f77515ef21c926026b7b20ed3906\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6c3241485b283176a7e78350d20304e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\951c9780bfb9f3950efc44a877272470\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\bf5709d481d2d5b5925ed2ee699f273a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\c0d2111d72d0dd08669f5ea420e94432\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a3323d1f6ade0c888e7bd588d01034d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\2ab578f50238ca9ffe1881641024d6ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\c9a5ed86b4d374b101e835f9c951f52c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\2902bf08157e88db0ba08fdba51ddeaf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\be1f7ed8a8f3d254d64e52752c8363ab\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\f10de17908b71f9539f909bd10d4e3d7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\ed635576caea7cd4b920e11611dc401d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f243bad0e4b0859a79e91b8c7217ae59\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\da3a8cadfca9cc09463fbdead8e6e2ec\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:6:22-66
+application
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:8:5-45:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\4130f9cf19a42513b85e037484a2daaf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\4130f9cf19a42513b85e037484a2daaf\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1305446c7ceba653e3bc60d043b82892\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1305446c7ceba653e3bc60d043b82892\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3436ae6c1f8c50ab4f3cb308cd95159d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3436ae6c1f8c50ab4f3cb308cd95159d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a14c4c753a4a700b981e6307e04ec3ac\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a14c4c753a4a700b981e6307e04ec3ac\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\fc1468131338e0142dde1fe52288b89b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\fc1468131338e0142dde1fe52288b89b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\b9871dca871242ba3e1236c0a2099e5f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\b9871dca871242ba3e1236c0a2099e5f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\f3fd88c1c97b701d0b83468d9d3e88e1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\f3fd88c1c97b701d0b83468d9d3e88e1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\c9a5ed86b4d374b101e835f9c951f52c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\c9a5ed86b4d374b101e835f9c951f52c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\2902bf08157e88db0ba08fdba51ddeaf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\2902bf08157e88db0ba08fdba51ddeaf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\be1f7ed8a8f3d254d64e52752c8363ab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\be1f7ed8a8f3d254d64e52752c8363ab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\f10de17908b71f9539f909bd10d4e3d7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\f10de17908b71f9539f909bd10d4e3d7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\ed635576caea7cd4b920e11611dc401d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\ed635576caea7cd4b920e11611dc401d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f243bad0e4b0859a79e91b8c7217ae59\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f243bad0e4b0859a79e91b8c7217ae59\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\da3a8cadfca9cc09463fbdead8e6e2ec\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\da3a8cadfca9cc09463fbdead8e6e2ec\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\b9871dca871242ba3e1236c0a2099e5f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.developeronrent.yapnaaAgent.Activity.MainActivity
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:15:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:19:27-74
+service#com.developeronrent.yapnaaAgent.Service.MyFirebaseMessagingClass
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:23:9-27:19
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:23:18-66
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:24:13-26:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:25:17-78
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:25:25-75
+service#com.developeronrent.yapnaaAgent.Service.MyFirebaseInstanceId
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:28:9-32:19
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:28:18-62
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:29:13-31:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:30:17-80
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:30:25-77
+receiver#com.developeronrent.yapnaaAgent.Service.FireBaseBackgroundService
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:exported
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:37:13-73
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:35:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:38:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:39:17-81
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:39:25-78
+activity#com.developeronrent.yapnaaAgent.Activity.Profile
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:43:9-54
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:43:19-51
+activity#com.developeronrent.yapnaaAgent.Activity.DialUp
+ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml:44:19-50
+uses-sdk
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\b18f3bbaf7af2ebd7c50cd62a22383e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\b18f3bbaf7af2ebd7c50cd62a22383e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\4130f9cf19a42513b85e037484a2daaf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\4130f9cf19a42513b85e037484a2daaf\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1305446c7ceba653e3bc60d043b82892\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1305446c7ceba653e3bc60d043b82892\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\b5e013656bced05e6f865656b63093db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\b5e013656bced05e6f865656b63093db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\a6c3dd490c35160b36be5b959e779619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\a6c3dd490c35160b36be5b959e779619\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3436ae6c1f8c50ab4f3cb308cd95159d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3436ae6c1f8c50ab4f3cb308cd95159d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a14c4c753a4a700b981e6307e04ec3ac\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a14c4c753a4a700b981e6307e04ec3ac\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\fc1468131338e0142dde1fe52288b89b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\fc1468131338e0142dde1fe52288b89b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\aa63af0937901314e764bf95bf525025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\aa63af0937901314e764bf95bf525025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\c9a699e23152ed2a1db7740af2c99425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\c9a699e23152ed2a1db7740af2c99425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\3207b430c12e63b612e3b2ae0234fcf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\3207b430c12e63b612e3b2ae0234fcf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\6d9b9d4d1998903f7bdc2cc6322c0181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\6d9b9d4d1998903f7bdc2cc6322c0181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\0992239b7fbebdfc8140d734336c5082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\0992239b7fbebdfc8140d734336c5082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\08e9113e87d0d5fd4944a694f14c99da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\08e9113e87d0d5fd4944a694f14c99da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\4facb44d50778a6c23691035e679b0cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\4facb44d50778a6c23691035e679b0cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\c42fd4a971b61d821874a607f53d0a28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\c42fd4a971b61d821874a607f53d0a28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\ce6bd4d880afac33180f85a8f0868180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\ce6bd4d880afac33180f85a8f0868180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\a7ab8a095f14bb8ce8f1212a7ac9be8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\a7ab8a095f14bb8ce8f1212a7ac9be8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\5309c46fcc2b95c6f9bd848ea4cb02aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\5309c46fcc2b95c6f9bd848ea4cb02aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\b9871dca871242ba3e1236c0a2099e5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\b9871dca871242ba3e1236c0a2099e5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\f3fd88c1c97b701d0b83468d9d3e88e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\f3fd88c1c97b701d0b83468d9d3e88e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\b9d620ff1afb17f667fa9811ba7dd952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\b9d620ff1afb17f667fa9811ba7dd952\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d135d52745b88058d7ba2cb98a9d9ab0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d135d52745b88058d7ba2cb98a9d9ab0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5767f77515ef21c926026b7b20ed3906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5767f77515ef21c926026b7b20ed3906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6c3241485b283176a7e78350d20304e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6c3241485b283176a7e78350d20304e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\951c9780bfb9f3950efc44a877272470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\951c9780bfb9f3950efc44a877272470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\bf5709d481d2d5b5925ed2ee699f273a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\bf5709d481d2d5b5925ed2ee699f273a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\c0d2111d72d0dd08669f5ea420e94432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\c0d2111d72d0dd08669f5ea420e94432\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a3323d1f6ade0c888e7bd588d01034d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a3323d1f6ade0c888e7bd588d01034d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\2ab578f50238ca9ffe1881641024d6ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\2ab578f50238ca9ffe1881641024d6ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\c9a5ed86b4d374b101e835f9c951f52c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\c9a5ed86b4d374b101e835f9c951f52c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\2902bf08157e88db0ba08fdba51ddeaf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\2902bf08157e88db0ba08fdba51ddeaf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\be1f7ed8a8f3d254d64e52752c8363ab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\be1f7ed8a8f3d254d64e52752c8363ab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\f10de17908b71f9539f909bd10d4e3d7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\f10de17908b71f9539f909bd10d4e3d7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\ed635576caea7cd4b920e11611dc401d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\ed635576caea7cd4b920e11611dc401d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f243bad0e4b0859a79e91b8c7217ae59\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f243bad0e4b0859a79e91b8c7217ae59\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\da3a8cadfca9cc09463fbdead8e6e2ec\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\da3a8cadfca9cc09463fbdead8e6e2ec\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a14c4c753a4a700b981e6307e04ec3ac\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sneha\AndroidStudioProjects\YapnaaAgent\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\cf45ac5c89fc8411e37d54a2fc25a158\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\a34271c600710156ab4074a1cee1500e\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\52b0cdf069a3b1e11116f11bec7b9c76\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:29:9-63
+permission#com.developeronrent.yapnaaAgent.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:32:22-76
+uses-permission#com.developeronrent.yapnaaAgent.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.developeronrent.yapnaaAgent
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:39:13-43:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:42:27-58
+category#com.developeronrent.yapnaaAgent
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\2204e2766f6b96b1d57c67d82bd1e9bc\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1017773c78ccd299dff6b125fe21bc3f\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Sneha\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0357c8ab1e03f209cd6ef3c6312cb2c6\AndroidManifest.xml:24:13-58
